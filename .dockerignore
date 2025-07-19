@@ -1,0 +1,8 @@
+.git
+.gitignore
+Dockerfile
+.dockerignore
+*.md
+*.log
+deployment/*.yaml
+vendor
