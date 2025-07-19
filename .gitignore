@@ -1,3 +1,8 @@
-#secret
+# Secret files
 deployment/secret.yaml
 config/config.yaml
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
