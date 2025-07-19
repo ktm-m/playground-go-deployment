@@ -1,6 +1,6 @@
 # Secret files
 deployment/secret.yaml
-config/config.yaml
+config.yaml
 
 # Editor files
 .vscode/
